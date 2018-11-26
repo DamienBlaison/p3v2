@@ -1,4 +1,4 @@
-// test modification
+
 // declaration des varialbles
 
 var testStorage = 0;
